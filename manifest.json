@@ -1,0 +1,42 @@
+{
+  "package": "Hamatate linked research interface",
+  "version": "0.2.2 / interface v10.2",
+  "generated": "2026-09-28",
+  "production": "A228401",
+  "resources": {
+    "tei": "tei/A228401.xml",
+    "persons": "tei/persons.xml",
+    "index": "data/index.json",
+    "relations": "data/relations.json",
+    "semanticSource": "data/semantic_edition_data.json",
+    "odd": "schema/hamatate.odd",
+    "schematron": "schema/hamatate.sch",
+    "interface": "index.html",
+    "runtimeBundle": "data/runtime_bundle.js"
+  },
+  "descriptions": {
+    "tei": "Interoperable TEI representation of the edition and stand-off research layer; prototype validation status is documented in VALIDATION_REPORT.md.",
+    "persons": "Reusable person authority file derived from the master spreadsheet.",
+    "index": "UI-oriented index generated from TEI/spreadsheet identifiers.",
+    "relations": "Fast graph of T, R, S, PS and person links.",
+    "semanticSource": "Loss-preserving run-level extraction used by the interface to reproduce Word encoding and visual/editorial distinctions.",
+    "odd": "Project TEI customization and encoding policy.",
+    "schematron": "Project-specific validation rules.",
+    "interface": "Full V10.2 research interface with the V10.1 interactive knowledge map, restored graphical spreadsheet topology, and a new conceptual overview of the edition-encoding layer.",
+    "runtimeBundle": "Generated offline fallback. When served over HTTP, the interface first reads the separate JSON files directly; this bundle keeps the same interface usable as a local standalone prototype."
+  },
+  "sourceFiles": {
+    "word": "כי תצא למלחמה עריכה ותיוג 4.8.26.docx",
+    "key": "מקרא צבעים וסימנים(2).docx",
+    "spreadsheet": "miftuach_input.xlsx"
+  },
+  "checksums": {
+    "tei": "a9506a7d0514895278326d34b4918b9781c121fba888ac3bacd163f77ecd3a7c",
+    "persons": "520ebe39232699712182a7dd79bb3492f1b219f78624574e2ca0612ed9150ed9",
+    "index": "bbdd0f70a8d3a8b41d28131d80288448e54a5c33ff711043946f781d9ea9abe1",
+    "relations": "41de9c6c65f598c78160340bf4bf6bbfdb7b4e278343bbad65fdda17fef44e52",
+    "semanticSource": "8ca0092ddfd48047c97a2192a6a1b40b5b9ea0b17b56728d55405b7a6de11964",
+    "odd": "f5f5fcc182c74c9083c502e9a16c4c1eed00c9cbfa8d0dcee3e1df813e1fda5c",
+    "schematron": "3c19ac13711d0275c4fc5b10cdbf9637c89114e193744c5db9fc9e0ff1879bbd"
+  }
+}

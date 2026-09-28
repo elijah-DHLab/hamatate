@@ -1,0 +1,463 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hamatate-persons">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Hamatate authority file — persons</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Project authority file</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Generated from master spreadsheet sheet “ישויות”.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <listPerson>
+        <person xml:id="per001" sex="M">
+          <persName>
+            <forename>יצחק</forename>
+            <surname>נוז'יק</surname>
+          </persName>
+          <idno type="NLI">1469082</idno>
+          <birth when="1889">
+            <placeName>ורשה, פולין</placeName>
+          </birth>
+          <death when="1949">
+            <placeName>ישראל</placeName>
+          </death>
+        </person>
+        <person xml:id="per002" sex="M">
+          <persName>
+            <forename>יעקב </forename>
+            <surname>אורלנד</surname>
+          </persName>
+          <idno type="Wikidata">Q4022348</idno>
+          <idno type="VIAF">71647359</idno>
+          <idno type="NLI">101833</idno>
+        </person>
+        <person xml:id="per003" sex="M">
+          <persName>
+            <forename>נתן</forename>
+            <surname>אלתרמן</surname>
+          </persName>
+          <idno type="Wikidata">Q1340536</idno>
+          <idno type="VIAF">54296886</idno>
+          <idno type="NLI">9140</idno>
+        </person>
+        <person xml:id="per004" sex="M">
+          <persName>
+            <forename>סמי</forename>
+            <surname>גרונימן</surname>
+          </persName>
+          <idno type="Wikidata">Q106217</idno>
+          <idno type="VIAF">73975806</idno>
+          <idno type="NLI">56935</idno>
+        </person>
+        <person xml:id="per005" sex="M">
+          <persName>
+            <forename>שמואל</forename>
+            <surname>רודנסקי</surname>
+          </persName>
+          <idno type="Wikidata">Q2279665</idno>
+          <idno type="VIAF">79648100</idno>
+          <idno type="NLI">4006569</idno>
+        </person>
+        <person xml:id="per006" sex="M">
+          <persName>
+            <forename>יעקב </forename>
+            <surname>אבא</surname>
+          </persName>
+          <idno type="NLI">5682452</idno>
+          <birth when="1903">
+            <placeName>ניקולייב, רוסיה</placeName>
+          </birth>
+          <death when="1984">
+            <placeName>ישראל</placeName>
+          </death>
+        </person>
+        <person xml:id="per007" sex="M">
+          <persName>
+            <forename>משה</forename>
+            <surname>חורגל</surname>
+          </persName>
+          <idno type="Wikidata">Q6586692</idno>
+          <idno type="VIAF">308279156</idno>
+          <idno type="NLI">5728520</idno>
+        </person>
+        <person xml:id="per008" sex="F">
+          <persName>
+            <forename>אסתר</forename>
+            <surname>גמליאלית</surname>
+          </persName>
+          <idno type="Wikidata">Q6965134</idno>
+          <idno type="VIAF">160560324</idno>
+          <idno type="NLI">329691</idno>
+        </person>
+        <person xml:id="per009" sex="M">
+          <persName>
+            <forename>זלמן</forename>
+            <surname>לביוש</surname>
+          </persName>
+          <idno type="Wikidata">Q7061976</idno>
+          <idno type="VIAF">311648650</idno>
+          <idno type="NLI">5359320</idno>
+        </person>
+        <person xml:id="per010" sex="F">
+          <persName>
+            <forename>רוזה</forename>
+            <surname>ליכטנשטיין</surname>
+          </persName>
+          <idno type="Wikidata">Q16508803</idno>
+          <idno type="VIAF">311688704</idno>
+          <idno type="NLI">5782799</idno>
+        </person>
+        <person xml:id="per011" sex="M">
+          <persName>
+            <forename>יעקב </forename>
+            <surname>טימן</surname>
+          </persName>
+          <idno type="Wikidata">Q6947122</idno>
+          <idno type="VIAF">315206492</idno>
+          <idno type="NLI">1727997</idno>
+        </person>
+        <person xml:id="per012" sex="F">
+          <persName>
+            <forename>לאה </forename>
+            <surname>גולדברג</surname>
+          </persName>
+          <idno type="Wikidata">Q138007</idno>
+          <idno type="VIAF">12434988</idno>
+          <idno type="NLI">54368</idno>
+        </person>
+        <person xml:id="per013" sex="F">
+          <persName>
+            <forename>מרים </forename>
+            <surname>שינדלר</surname>
+          </persName>
+          <birth>
+            <placeName>פולין</placeName>
+          </birth>
+        </person>
+        <person xml:id="per014" sex="M">
+          <persName>
+            <forename>הלל</forename>
+            <surname>ברגמן-אביחנן</surname>
+          </persName>
+          <idno type="Wikidata">Q7015893</idno>
+          <idno type="VIAF">244796708</idno>
+          <idno type="NLI">384242</idno>
+        </person>
+        <person xml:id="per015" sex="M">
+          <persName>
+            <forename>יוסף</forename>
+            <surname>אוקסנברג</surname>
+          </persName>
+          <idno type="Wikidata">Q97400344</idno>
+          <idno type="VIAF">97170907</idno>
+          <idno type="NLI">164349</idno>
+        </person>
+        <person xml:id="per016" sex="F">
+          <persName>
+            <forename>ברונקה</forename>
+            <surname>זלצמן</surname>
+          </persName>
+          <idno type="Wikidata">Q42453466</idno>
+          <idno type="VIAF">73148874364149620742</idno>
+          <idno type="NLI">4008840</idno>
+        </person>
+        <person xml:id="per017" sex="M">
+          <persName>
+            <forename>עמנואל</forename>
+            <surname>לופטגלס</surname>
+          </persName>
+          <idno type="Wikidata">Q12410396</idno>
+          <idno type="VIAF">128386338</idno>
+          <idno type="NLI">322161</idno>
+        </person>
+        <person xml:id="per018" sex="M">
+          <persName>
+            <forename>מרק </forename>
+            <surname>לברי</surname>
+          </persName>
+          <idno type="Wikidata">Q2892115</idno>
+          <idno type="VIAF">27255691</idno>
+          <idno type="NLI">81558</idno>
+        </person>
+        <person xml:id="per019" sex="M">
+          <persName>
+            <forename>משה</forename>
+            <surname>וילנסקי</surname>
+          </persName>
+          <idno type="Wikidata">Q6916175</idno>
+          <idno type="VIAF">67839869</idno>
+          <idno type="NLI">141854</idno>
+        </person>
+        <person xml:id="per020" sex="M">
+          <persName>
+            <forename>שמואל </forename>
+            <surname>גלוז</surname>
+          </persName>
+          <birth when="1915">
+            <placeName>רובנו, פולין</placeName>
+          </birth>
+          <death when="1941">
+            <placeName>ישראל</placeName>
+          </death>
+        </person>
+        <person xml:id="per021" sex="M">
+          <persName>
+            <forename>בצלאל</forename>
+            <surname>לונדון</surname>
+          </persName>
+          <idno type="Wikidata">Q6599270</idno>
+          <idno type="VIAF">5498167807291318130003</idno>
+          <idno type="NLI">5682748</idno>
+        </person>
+        <person xml:id="per022" sex="M">
+          <persName>
+            <forename>מרדכי</forename>
+            <surname>אולרי-נוז'יק</surname>
+          </persName>
+          <idno type="Wikidata">Q22668124</idno>
+          <idno type="VIAF">97170214</idno>
+          <idno type="NLI">164076</idno>
+        </person>
+        <person xml:id="per023" sex="M">
+          <persName>
+            <forename>יוסף</forename>
+            <surname>קמינסקי (בן אברהם)</surname>
+          </persName>
+          <idno type="VIAF">241285759</idno>
+          <birth when="1903">
+            <placeName>ורשה, פולין</placeName>
+          </birth>
+          <death when="1972">
+            <placeName>ישראל</placeName>
+          </death>
+        </person>
+        <person xml:id="per024" sex="M">
+          <persName>
+            <forename>יצחק משה</forename>
+            <surname>דניאל</surname>
+          </persName>
+          <idno type="Wikidata">Q12281851</idno>
+          <idno type="VIAF">7414168049006838410004</idno>
+          <idno type="NLI">5685735</idno>
+        </person>
+        <person xml:id="per025" sex="M">
+          <persName>
+            <forename>מרטין</forename>
+            <surname>רוסט</surname>
+          </persName>
+          <idno type="VIAF">308265792</idno>
+          <idno type="NLI">1440694</idno>
+          <birth when="1911">
+            <placeName>בוקובינה, רומניה</placeName>
+          </birth>
+          <death when="1948">
+            <placeName>ישראל</placeName>
+          </death>
+        </person>
+        <person xml:id="per026" sex="F">
+          <persName>
+            <forename>יהודית</forename>
+            <surname>פרקל</surname>
+          </persName>
+          <idno type="VIAF">291167802873217771050</idno>
+          <idno type="NLI">5682652</idno>
+          <birth when="1904"/>
+        </person>
+        <person xml:id="per027" sex="M">
+          <persName>
+            <forename>פרידריך</forename>
+            <surname>לובה</surname>
+          </persName>
+          <idno type="Wikidata">Q6965124</idno>
+          <idno type="VIAF">40146190</idno>
+          <idno type="NLI">1411815</idno>
+        </person>
+        <person xml:id="per028" sex="M">
+          <persName>
+            <forename>ולנטין</forename>
+            <surname>קטייב</surname>
+          </persName>
+          <idno type="Wikidata">Q333873</idno>
+          <idno type="VIAF">29535927</idno>
+          <idno type="NLI">258594</idno>
+        </person>
+        <person xml:id="per029" sex="F">
+          <persName>
+            <forename>אהובה</forename>
+            <surname>בינוב</surname>
+          </persName>
+        </person>
+        <person xml:id="per030" sex="F">
+          <persName>
+            <forename>רחל</forename>
+            <surname>מרכוס</surname>
+          </persName>
+          <idno type="Wikidata">Q12411346</idno>
+          <idno type="VIAF">4902159820914714000003</idno>
+          <idno type="NLI">5319524</idno>
+        </person>
+        <person xml:id="per031" sex="F">
+          <persName>
+            <forename>עזובה</forename>
+            <surname>אוקסנברג</surname>
+          </persName>
+          <idno type="NLI">5687786</idno>
+        </person>
+        <person xml:id="per032" sex="M">
+          <persName>
+            <forename>יוסף</forename>
+            <surname>פסובסקי מילוא</surname>
+          </persName>
+          <idno type="Wikidata">Q12408009</idno>
+          <idno type="VIAF">97293635</idno>
+          <idno type="NLI">194149</idno>
+        </person>
+        <person xml:id="per033" sex="M">
+          <persName>
+            <forename>מתתיהו</forename>
+            <surname>רוזין</surname>
+          </persName>
+          <idno type="Wikidata">Q16130053</idno>
+          <idno type="VIAF">1148036098087972953</idno>
+          <idno type="NLI">2119499</idno>
+        </person>
+        <person xml:id="per034" sex="F">
+          <persName>
+            <forename>דוידה</forename>
+            <surname>קרול</surname>
+          </persName>
+          <idno type="Wikidata">Q5241527</idno>
+          <idno type="VIAF">42146824528807630081</idno>
+          <idno type="NLI">185274</idno>
+        </person>
+        <person xml:id="per035" sex="M">
+          <persName>
+            <forename>שמואל</forename>
+            <surname>פרשקו</surname>
+          </persName>
+          <idno type="Wikidata">Q2892554</idno>
+          <idno type="VIAF">101590225</idno>
+          <idno type="NLI">389823</idno>
+        </person>
+        <person xml:id="per036" sex="F">
+          <persName>
+            <forename>ברטה</forename>
+            <surname>וילנסקה</surname>
+          </persName>
+          <idno type="Wikidata">Q109265511</idno>
+          <idno type="VIAF">297463132</idno>
+          <idno type="NLI">632047</idno>
+        </person>
+        <person xml:id="per037" sex="M">
+          <persName>
+            <forename>יעקב </forename>
+            <surname>בנאי</surname>
+          </persName>
+          <idno type="Wikidata">Q6700084</idno>
+          <idno type="VIAF">161073931</idno>
+          <idno type="NLI">330425</idno>
+        </person>
+        <person xml:id="per038" sex="M">
+          <persName>
+            <forename>צ.</forename>
+            <surname>בן-נתן</surname>
+          </persName>
+        </person>
+        <person xml:id="per039" sex="F">
+          <persName>
+            <forename>חינה</forename>
+            <surname>רוזובסקה</surname>
+          </persName>
+          <idno type="Wikidata">Q6660561</idno>
+          <idno type="VIAF">3104160122843140630004</idno>
+          <idno type="NLI">5325616</idno>
+        </person>
+        <person xml:id="per040" sex="M">
+          <persName>
+            <forename>א.</forename>
+            <surname>דוידוביץ</surname>
+          </persName>
+        </person>
+        <person xml:id="per041" sex="M">
+          <persName>
+            <forename>נחום</forename>
+            <surname>נרדי</surname>
+          </persName>
+          <idno type="Wikidata">Q6995111</idno>
+          <idno type="VIAF">72849030</idno>
+          <idno type="NLI">97927</idno>
+        </person>
+        <person xml:id="per042" sex="M">
+          <persName>
+            <forename>מרדכי</forename>
+            <surname>זעירא</surname>
+          </persName>
+          <idno type="Wikidata">Q2911798</idno>
+          <idno type="VIAF">46392164</idno>
+          <idno type="NLI">195728</idno>
+        </person>
+        <person xml:id="per043" sex="M">
+          <persName>
+            <forename>יוסף</forename>
+            <surname>הייבלום</surname>
+          </persName>
+          <idno type="Wikidata">Q97155734</idno>
+          <idno type="VIAF">3407002</idno>
+          <birth when="1906">
+            <placeName>וארשה, פולין</placeName>
+          </birth>
+          <death when="1997"/>
+        </person>
+        <person xml:id="per044" sex="M">
+          <persName>
+            <forename>חיים</forename>
+            <surname>פרדו</surname>
+          </persName>
+          <birth when="1923">
+            <placeName>חיפה, ישראל</placeName>
+          </birth>
+          <death when="1963"/>
+        </person>
+        <person xml:id="per045" sex="F">
+          <persName>
+            <forename>לאה </forename>
+            <surname>קרופניק</surname>
+          </persName>
+        </person>
+        <person xml:id="per046" sex="M">
+          <persName>
+            <forename>י. </forename>
+            <surname>נגרי</surname>
+          </persName>
+        </person>
+        <person xml:id="per047" sex="M">
+          <persName>
+            <forename>א.</forename>
+            <surname>בן-צבי</surname>
+          </persName>
+        </person>
+        <person xml:id="per048" sex="M">
+          <persName>
+            <forename>תיאודור מאיר</forename>
+            <surname>ביקל</surname>
+          </persName>
+          <idno type="Wikidata">Q215721</idno>
+          <idno type="VIAF">82627937</idno>
+        </person>
+        <person xml:id="per049" sex="M">
+          <persName>
+            <forename>ו.</forename>
+            <surname>יבנאי</surname>
+          </persName>
+        </person>
+      </listPerson>
+    </body>
+  </text>
+</TEI>

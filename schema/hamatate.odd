@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hamatate-odd">
+ <teiHeader>
+  <fileDesc><titleStmt><title>Hamatate TEI customization</title></titleStmt>
+   <publicationStmt><p>Project customization for Hamatate theatrical witnesses.</p></publicationStmt>
+   <sourceDesc><p>Defines the TEI subset and project conventions used by the linked package.</p></sourceDesc></fileDesc>
+ </teiHeader>
+ <text><body>
+  <schemaSpec ident="hamatate" start="TEI">
+   <moduleRef key="tei"/><moduleRef key="header"/><moduleRef key="core"/><moduleRef key="textstructure"/>
+   <moduleRef key="drama"/><moduleRef key="transcr"/><moduleRef key="linking"/><moduleRef key="namesdates"/><moduleRef key="figures"/><moduleRef key="analysis"/>
+  </schemaSpec>
+  <div type="encodingPolicy"><head>Project mapping</head>
+   <list>
+    <item><label>T</label><p>Witness-level textual segment encoded as <gi>div</gi> type="textSegment" with the project T identifier as xml:id.</p></item>
+    <item><label>R</label><p>Dramatic role encoded by <gi>role</gi> with the R identifier as xml:id; speech links to it through <att>who</att>.</p></item>
+    <item><label>person</label><p>Authority entity encoded in <gi>listPerson</gi>; actor links use <att>ref</att>.</p></item>
+    <item><label>S</label><p>Hypothesized performance unit is not encoded as if it were part of a witness. It lives in <gi>standOff</gi> and receives witness and research relations.</p></item>
+    <item><label>scenario</label><p>An ordered research reading of S units, encoded in standOff and explicitly distinguished from an actual historical performance event.</p></item>
+    <item><label>internal editing</label><p>Hand additions use <gi>add</gi>; deletions use <gi>del</gi> with project types; stage directions use <gi>stage</gi>; uncertain text uses <gi>unclear</gi>; transposition marks use <gi>metamark</gi> plus stand-off relations.</p></item>
+   </list>
+  </div>
+ </body></text>
+</TEI>

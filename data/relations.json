@@ -1,0 +1,1226 @@
+{
+  "nodes": [
+    {
+      "id": "A228401",
+      "type": "production",
+      "label": "כי תצא למלחמה"
+    },
+    {
+      "id": "A228401-T1",
+      "type": "T",
+      "label": "כי תצא למלחמה"
+    },
+    {
+      "id": "A228401-T2",
+      "type": "T",
+      "label": "שתי כותרות: חדשות רויטר-פלקור, רדיו"
+    },
+    {
+      "id": "A228401-T3",
+      "type": "T",
+      "label": "שני חברים"
+    },
+    {
+      "id": "A228401-T4",
+      "type": "T",
+      "label": "שתי כותרות: סקסאפיל לשעת חירום, מסכות גאז"
+    },
+    {
+      "id": "A228401-T5",
+      "type": "T",
+      "label": "פזמון"
+    },
+    {
+      "id": "A228401-T6",
+      "type": "T",
+      "label": "שתי כותרות: בשבילך עד חצי המלכות, במרתף"
+    },
+    {
+      "id": "A228401-T7",
+      "type": "T",
+      "label": "[ללא כותרת]"
+    },
+    {
+      "id": "A228401-T8",
+      "type": "T",
+      "label": "גוטמונד אנד קומפני"
+    },
+    {
+      "id": "A228401-T9",
+      "type": "T",
+      "label": "[ללא כותרת]"
+    },
+    {
+      "id": "A228401-T10",
+      "type": "T",
+      "label": "שתי כותרות: בחזית המלך פיק, קלפים"
+    },
+    {
+      "id": "A228401-T11",
+      "type": "T",
+      "label": "[ללא כותרת]"
+    },
+    {
+      "id": "A228401-T12",
+      "type": "T",
+      "label": "שתי כותרות: נקניקיות ופלאפל, פלאפל-נקניקיות"
+    },
+    {
+      "id": "A228401-T13",
+      "type": "T",
+      "label": "פזמורת"
+    },
+    {
+      "id": "A228401-T14",
+      "type": "T",
+      "label": "שתי כותרות: שלגיה ואביריה, שלגיה"
+    },
+    {
+      "id": "A228401-T15",
+      "type": "T",
+      "label": "שלגיה"
+    },
+    {
+      "id": "A228401-T16",
+      "type": "T",
+      "label": "שתי כותרות: הטנדר נוסע, טנדר"
+    },
+    {
+      "id": "A228401-T17",
+      "type": "T",
+      "label": "שתי כותרות: קו מז'ינו וקו זיגפריד, מז'ינו-זיגפריד"
+    },
+    {
+      "id": "A228401-T18",
+      "type": "T",
+      "label": "מז'ינו וקו זיגפריד "
+    },
+    {
+      "id": "A228401-T19",
+      "type": "T",
+      "label": "שתי כותרות: פלוגה דום!, גיוס"
+    },
+    {
+      "id": "A228401-T20",
+      "type": "T",
+      "label": "דום עמוד!"
+    },
+    {
+      "id": "A228401-T21",
+      "type": "T",
+      "label": "דום עמוד!"
+    },
+    {
+      "id": "A228401-S1",
+      "type": "S",
+      "label": "A228401-S1"
+    },
+    {
+      "id": "A228401-S2",
+      "type": "S",
+      "label": "A228401-S2"
+    },
+    {
+      "id": "A228401-S3",
+      "type": "S",
+      "label": "A228401-S3"
+    },
+    {
+      "id": "A228401-S4",
+      "type": "S",
+      "label": "A228401-S4"
+    },
+    {
+      "id": "A228401-S5",
+      "type": "S",
+      "label": "A228401-S5"
+    },
+    {
+      "id": "A228401-S6",
+      "type": "S",
+      "label": "A228401-S6"
+    },
+    {
+      "id": "A228401-S7",
+      "type": "S",
+      "label": "A228401-S7"
+    },
+    {
+      "id": "A228401-S8",
+      "type": "S",
+      "label": "A228401-S8"
+    },
+    {
+      "id": "A228401-S9",
+      "type": "S",
+      "label": "A228401-S9"
+    },
+    {
+      "id": "A228401-S10",
+      "type": "S",
+      "label": "A228401-S10"
+    },
+    {
+      "id": "A228401-S11",
+      "type": "S",
+      "label": "A228401-S11"
+    },
+    {
+      "id": "A228401-S12",
+      "type": "S",
+      "label": "A228401-S12"
+    },
+    {
+      "id": "A228401-R1",
+      "type": "R",
+      "label": "זלמן"
+    },
+    {
+      "id": "A228401-R2",
+      "type": "R",
+      "label": "קלמן"
+    },
+    {
+      "id": "A228401-R3",
+      "type": "R",
+      "label": "זהבה"
+    },
+    {
+      "id": "A228401-R4",
+      "type": "R",
+      "label": "בעלת הבית (תמרה)"
+    },
+    {
+      "id": "A228401-R5",
+      "type": "R",
+      "label": "לאה"
+    },
+    {
+      "id": "A228401-R6",
+      "type": "R",
+      "label": "ר' נחמן"
+    },
+    {
+      "id": "A228401-R7",
+      "type": "R",
+      "label": "שכנה (שפרה)"
+    },
+    {
+      "id": "A228401-R8",
+      "type": "R",
+      "label": "רפפורט"
+    },
+    {
+      "id": "A228401-R9",
+      "type": "R",
+      "label": "הגבוה"
+    },
+    {
+      "id": "A228401-R10",
+      "type": "R",
+      "label": "הנמוך"
+    },
+    {
+      "id": "A228401-R11",
+      "type": "R",
+      "label": "יעקב"
+    },
+    {
+      "id": "A228401-R12",
+      "type": "R",
+      "label": "ברכה"
+    },
+    {
+      "id": "A228401-R13",
+      "type": "R",
+      "label": "חנה"
+    },
+    {
+      "id": "A228401-R14",
+      "type": "R",
+      "label": "לייב"
+    },
+    {
+      "id": "A228401-R15",
+      "type": "R",
+      "label": "בנימין (גנב)"
+    },
+    {
+      "id": "A228401-R16",
+      "type": "R",
+      "label": "חצקל (גנב שני)"
+    },
+    {
+      "id": "A228401-R17",
+      "type": "R",
+      "label": "מוכר פלאפל"
+    },
+    {
+      "id": "A228401-R18",
+      "type": "R",
+      "label": "מוכר נקניקיות"
+    },
+    {
+      "id": "A228401-R19",
+      "type": "R",
+      "label": "גמד"
+    },
+    {
+      "id": "A228401-R20",
+      "type": "R",
+      "label": "גמד"
+    },
+    {
+      "id": "A228401-R21",
+      "type": "R",
+      "label": "נסיך א'"
+    },
+    {
+      "id": "A228401-R22",
+      "type": "R",
+      "label": "נסיך ב' (הוא)"
+    },
+    {
+      "id": "A228401-R23",
+      "type": "R",
+      "label": "היא (הכלה)"
+    },
+    {
+      "id": "A228401-R24",
+      "type": "R",
+      "label": "אריה מז'ינסקי"
+    },
+    {
+      "id": "A228401-R25",
+      "type": "R",
+      "label": "זיגפריד כהן"
+    },
+    {
+      "id": "A228401-R26",
+      "type": "R",
+      "label": "יבניאלי (צבי)"
+    },
+    {
+      "id": "A228401-R27",
+      "type": "R",
+      "label": "שוטר"
+    },
+    {
+      "id": "A228401-R28",
+      "type": "R",
+      "label": "קורפורל"
+    },
+    {
+      "id": "A228401-R29",
+      "type": "R",
+      "label": "קצין אנגלי"
+    },
+    {
+      "id": "A228401-R30",
+      "type": "R",
+      "label": "קצינה"
+    },
+    {
+      "id": "A228401-R31",
+      "type": "R",
+      "label": "חיילת א'"
+    },
+    {
+      "id": "A228401-R32",
+      "type": "R",
+      "label": "חיילת ב'"
+    },
+    {
+      "id": "A228401-R33",
+      "type": "R",
+      "label": "חיילת ג'"
+    },
+    {
+      "id": "A228401-R34",
+      "type": "R",
+      "label": "אישה"
+    },
+    {
+      "id": "A228401-R35",
+      "type": "R",
+      "label": "דזו'קר"
+    },
+    {
+      "id": "A228401-R36",
+      "type": "R",
+      "label": "קרו"
+    },
+    {
+      "id": "A228401-R37",
+      "type": "R",
+      "label": "מלך פיק"
+    },
+    {
+      "id": "A228401-R38",
+      "type": "R",
+      "label": "מלכת פיק"
+    },
+    {
+      "id": "A228401-R39",
+      "type": "R",
+      "label": "מלך לב"
+    },
+    {
+      "id": "A228401-R40",
+      "type": "R",
+      "label": "מלכת לב"
+    },
+    {
+      "id": "A228401-R41",
+      "type": "R",
+      "label": "הסיטונאי (האס)"
+    },
+    {
+      "id": "A228401-R42",
+      "type": "R",
+      "label": "שוטר"
+    },
+    {
+      "id": "per001",
+      "type": "person",
+      "label": "יצחק נוז'יק"
+    },
+    {
+      "id": "per002",
+      "type": "person",
+      "label": "יעקב אורלנד"
+    },
+    {
+      "id": "per003",
+      "type": "person",
+      "label": "נתן אלתרמן"
+    },
+    {
+      "id": "per004",
+      "type": "person",
+      "label": "סמי גרונימן"
+    },
+    {
+      "id": "per005",
+      "type": "person",
+      "label": "שמואל רודנסקי"
+    },
+    {
+      "id": "per006",
+      "type": "person",
+      "label": "יעקב אבא "
+    },
+    {
+      "id": "per007",
+      "type": "person",
+      "label": "משה חורגל"
+    },
+    {
+      "id": "per008",
+      "type": "person",
+      "label": "אסתר גמליאלית"
+    },
+    {
+      "id": "per009",
+      "type": "person",
+      "label": "זלמן לביוש"
+    },
+    {
+      "id": "per010",
+      "type": "person",
+      "label": "רוזה ליכטנשטיין"
+    },
+    {
+      "id": "per011",
+      "type": "person",
+      "label": "יעקב טימן"
+    },
+    {
+      "id": "per012",
+      "type": "person",
+      "label": "לאה גולדברג"
+    },
+    {
+      "id": "per013",
+      "type": "person",
+      "label": "מרים שינדלר"
+    },
+    {
+      "id": "per014",
+      "type": "person",
+      "label": "הלל ברגמן-אביחנן"
+    },
+    {
+      "id": "per015",
+      "type": "person",
+      "label": "יוסף אוקסנברג"
+    },
+    {
+      "id": "per016",
+      "type": "person",
+      "label": "ברונקה זלצמן"
+    },
+    {
+      "id": "per017",
+      "type": "person",
+      "label": "עמנואל לופטגלס"
+    },
+    {
+      "id": "per018",
+      "type": "person",
+      "label": "מרק לברי"
+    },
+    {
+      "id": "per019",
+      "type": "person",
+      "label": "משה וילנסקי"
+    },
+    {
+      "id": "per020",
+      "type": "person",
+      "label": "שמואל גלוז"
+    },
+    {
+      "id": "per021",
+      "type": "person",
+      "label": "בצלאל לונדון"
+    },
+    {
+      "id": "per022",
+      "type": "person",
+      "label": "מרדכי אולרי-נוז'יק"
+    },
+    {
+      "id": "per023",
+      "type": "person",
+      "label": "יוסף קמינסקי (בן אברהם)"
+    },
+    {
+      "id": "per024",
+      "type": "person",
+      "label": "יצחק משה דניאל"
+    },
+    {
+      "id": "per025",
+      "type": "person",
+      "label": "מרטין רוסט"
+    },
+    {
+      "id": "per026",
+      "type": "person",
+      "label": "יהודית פרקל"
+    },
+    {
+      "id": "per027",
+      "type": "person",
+      "label": "פרידריך לובה"
+    },
+    {
+      "id": "per028",
+      "type": "person",
+      "label": "ולנטין קטייב"
+    },
+    {
+      "id": "per029",
+      "type": "person",
+      "label": "אהובה בינוב"
+    },
+    {
+      "id": "per030",
+      "type": "person",
+      "label": "רחל מרכוס"
+    },
+    {
+      "id": "per031",
+      "type": "person",
+      "label": "עזובה אוקסנברג"
+    },
+    {
+      "id": "per032",
+      "type": "person",
+      "label": "יוסף פסובסקי מילוא"
+    },
+    {
+      "id": "per033",
+      "type": "person",
+      "label": "מתתיהו רוזין"
+    },
+    {
+      "id": "per034",
+      "type": "person",
+      "label": "דוידה קרול"
+    },
+    {
+      "id": "per035",
+      "type": "person",
+      "label": "שמואל פרשקו"
+    },
+    {
+      "id": "per036",
+      "type": "person",
+      "label": "ברטה וילנסקה"
+    },
+    {
+      "id": "per037",
+      "type": "person",
+      "label": "יעקב בנאי"
+    },
+    {
+      "id": "per038",
+      "type": "person",
+      "label": "צ. בן-נתן"
+    },
+    {
+      "id": "per039",
+      "type": "person",
+      "label": "חינה רוזובסקה"
+    },
+    {
+      "id": "per040",
+      "type": "person",
+      "label": "א. דוידוביץ"
+    },
+    {
+      "id": "per041",
+      "type": "person",
+      "label": "נחום נרדי"
+    },
+    {
+      "id": "per042",
+      "type": "person",
+      "label": "מרדכי זעירא"
+    },
+    {
+      "id": "per043",
+      "type": "person",
+      "label": "יוסף הייבלום"
+    },
+    {
+      "id": "per044",
+      "type": "person",
+      "label": "חיים פרדו"
+    },
+    {
+      "id": "per045",
+      "type": "person",
+      "label": "לאה קרופניק"
+    },
+    {
+      "id": "per046",
+      "type": "person",
+      "label": "י. נגרי"
+    },
+    {
+      "id": "per047",
+      "type": "person",
+      "label": "א. בן-צבי"
+    },
+    {
+      "id": "per048",
+      "type": "person",
+      "label": "תיאודור מאיר ביקל"
+    },
+    {
+      "id": "per049",
+      "type": "person",
+      "label": "ו. יבנאי"
+    },
+    {
+      "id": "A228401-P1.3.PS1",
+      "type": "PS",
+      "label": "1.0"
+    },
+    {
+      "id": "A228401-P1.3.PS2",
+      "type": "PS",
+      "label": "2.0"
+    },
+    {
+      "id": "A228401-P1.3.PS3",
+      "type": "PS",
+      "label": "3.0"
+    },
+    {
+      "id": "A228401-P1.3.PS4",
+      "type": "PS",
+      "label": "4.0"
+    },
+    {
+      "id": "A228401-P1.3.PS5",
+      "type": "PS",
+      "label": "5.0"
+    },
+    {
+      "id": "A228401-P1.3.PS6",
+      "type": "PS",
+      "label": "6.0"
+    },
+    {
+      "id": "A228401-P1.3.PS7",
+      "type": "PS",
+      "label": "7.0"
+    },
+    {
+      "id": "A228401-P1.3.PS8",
+      "type": "PS",
+      "label": "8.0"
+    },
+    {
+      "id": "A228401-P1.3.PS9",
+      "type": "PS",
+      "label": "9.0"
+    },
+    {
+      "id": "A228401-P1.3.PS10",
+      "type": "PS",
+      "label": "10.0"
+    },
+    {
+      "id": "A228401-P1.3.PS11",
+      "type": "PS",
+      "label": "11.0"
+    }
+  ],
+  "edges": [
+    {
+      "source": "A228401-T1",
+      "target": "A228401",
+      "type": "T→S"
+    },
+    {
+      "source": "A228401-T2",
+      "target": "A228401-S1",
+      "type": "T→S"
+    },
+    {
+      "source": "A228401-T3",
+      "target": "A228401-S1",
+      "type": "T→S"
+    },
+    {
+      "source": "A228401-T4",
+      "target": "A228401-S2",
+      "type": "T→S"
+    },
+    {
+      "source": "A228401-T5",
+      "target": "A228401-S2",
+      "type": "T→S"
+    },
+    {
+      "source": "A228401-T6",
+      "target": "A228401-S3",
+      "type": "T→S"
+    },
+    {
+      "source": "A228401-T7",
+      "target": "A228401-S3",
+      "type": "T→S"
+    },
+    {
+      "source": "A228401-T8",
+      "target": "A228401-S5",
+      "type": "T→S"
+    },
+    {
+      "source": "A228401-T9",
+      "target": "A228401-S5",
+      "type": "T→S"
+    },
+    {
+      "source": "A228401-T10",
+      "target": "A228401-S12",
+      "type": "T→S"
+    },
+    {
+      "source": "A228401-T11",
+      "target": "A228401-S12",
+      "type": "T→S"
+    },
+    {
+      "source": "A228401-T12",
+      "target": "A228401-S6",
+      "type": "T→S"
+    },
+    {
+      "source": "A228401-T13",
+      "target": "A228401-S6",
+      "type": "T→S"
+    },
+    {
+      "source": "A228401-T14",
+      "target": "A228401-S7",
+      "type": "T→S"
+    },
+    {
+      "source": "A228401-T15",
+      "target": "A228401-S7",
+      "type": "T→S"
+    },
+    {
+      "source": "A228401-T16",
+      "target": "A228401-S10",
+      "type": "T→S"
+    },
+    {
+      "source": "A228401-T17",
+      "target": "A228401-S9",
+      "type": "T→S"
+    },
+    {
+      "source": "A228401-T18",
+      "target": "A228401-S9",
+      "type": "T→S"
+    },
+    {
+      "source": "A228401-T19",
+      "target": "A228401-S11",
+      "type": "T→S"
+    },
+    {
+      "source": "A228401-T20",
+      "target": "A228401-S11",
+      "type": "T→S"
+    },
+    {
+      "source": "A228401-T21",
+      "target": "A228401-S11",
+      "type": "T→S"
+    },
+    {
+      "source": "A228401-R1",
+      "target": "A228401-S1",
+      "type": "R→S"
+    },
+    {
+      "source": "A228401-R1",
+      "target": "per021",
+      "type": "R→person"
+    },
+    {
+      "source": "A228401-R2",
+      "target": "A228401-S1",
+      "type": "R→S"
+    },
+    {
+      "source": "A228401-R2",
+      "target": "per005",
+      "type": "R→person"
+    },
+    {
+      "source": "A228401-R3",
+      "target": "A228401-S1",
+      "type": "R→S"
+    },
+    {
+      "source": "A228401-R3",
+      "target": "per013",
+      "type": "R→person"
+    },
+    {
+      "source": "A228401-R4",
+      "target": "A228401-S1",
+      "type": "R→S"
+    },
+    {
+      "source": "A228401-R4",
+      "target": "per010",
+      "type": "R→person"
+    },
+    {
+      "source": "A228401-R5",
+      "target": "A228401-S3",
+      "type": "R→S"
+    },
+    {
+      "source": "A228401-R5",
+      "target": "per016",
+      "type": "R→person"
+    },
+    {
+      "source": "A228401-R6",
+      "target": "A228401-S3",
+      "type": "R→S"
+    },
+    {
+      "source": "A228401-R6",
+      "target": "per009",
+      "type": "R→person"
+    },
+    {
+      "source": "A228401-R7",
+      "target": "A228401-S3",
+      "type": "R→S"
+    },
+    {
+      "source": "A228401-R7",
+      "target": "per010",
+      "type": "R→person"
+    },
+    {
+      "source": "A228401-R8",
+      "target": "A228401-S3",
+      "type": "R→S"
+    },
+    {
+      "source": "A228401-R8",
+      "target": "per005",
+      "type": "R→person"
+    },
+    {
+      "source": "A228401-R9",
+      "target": "A228401-S3",
+      "type": "R→S"
+    },
+    {
+      "source": "A228401-R9",
+      "target": "per011",
+      "type": "R→person"
+    },
+    {
+      "source": "A228401-R10",
+      "target": "A228401-S3",
+      "type": "R→S"
+    },
+    {
+      "source": "A228401-R10",
+      "target": "per006",
+      "type": "R→person"
+    },
+    {
+      "source": "A228401-R11",
+      "target": "A228401-S5",
+      "type": "R→S"
+    },
+    {
+      "source": "A228401-R11",
+      "target": "per021",
+      "type": "R→person"
+    },
+    {
+      "source": "A228401-R12",
+      "target": "A228401-S5",
+      "type": "R→S"
+    },
+    {
+      "source": "A228401-R12",
+      "target": "per010",
+      "type": "R→person"
+    },
+    {
+      "source": "A228401-R13",
+      "target": "A228401-S5",
+      "type": "R→S"
+    },
+    {
+      "source": "A228401-R13",
+      "target": "per013",
+      "type": "R→person"
+    },
+    {
+      "source": "A228401-R14",
+      "target": "A228401-S5",
+      "type": "R→S"
+    },
+    {
+      "source": "A228401-R14",
+      "target": "per015",
+      "type": "R→person"
+    },
+    {
+      "source": "A228401-R15",
+      "target": "A228401-S5",
+      "type": "R→S"
+    },
+    {
+      "source": "A228401-R15",
+      "target": "per005",
+      "type": "R→person"
+    },
+    {
+      "source": "A228401-R16",
+      "target": "A228401-S5",
+      "type": "R→S"
+    },
+    {
+      "source": "A228401-R16",
+      "target": "per011",
+      "type": "R→person"
+    },
+    {
+      "source": "A228401-R17",
+      "target": "A228401-S6",
+      "type": "R→S"
+    },
+    {
+      "source": "A228401-R17",
+      "target": "per008",
+      "type": "R→person"
+    },
+    {
+      "source": "A228401-R18",
+      "target": "A228401-S6",
+      "type": "R→S"
+    },
+    {
+      "source": "A228401-R18",
+      "target": "per011",
+      "type": "R→person"
+    },
+    {
+      "source": "A228401-R19",
+      "target": "A228401-S7",
+      "type": "R→S"
+    },
+    {
+      "source": "A228401-R19",
+      "target": "per006",
+      "type": "R→person"
+    },
+    {
+      "source": "A228401-R20",
+      "target": "A228401-S7",
+      "type": "R→S"
+    },
+    {
+      "source": "A228401-R20",
+      "target": "per007",
+      "type": "R→person"
+    },
+    {
+      "source": "A228401-R21",
+      "target": "A228401-S7",
+      "type": "R→S"
+    },
+    {
+      "source": "A228401-R21",
+      "target": "per009",
+      "type": "R→person"
+    },
+    {
+      "source": "A228401-R22",
+      "target": "A228401-S7",
+      "type": "R→S"
+    },
+    {
+      "source": "A228401-R22",
+      "target": "per005",
+      "type": "R→person"
+    },
+    {
+      "source": "A228401-R23",
+      "target": "A228401-S7",
+      "type": "R→S"
+    },
+    {
+      "source": "A228401-R23",
+      "target": "per011",
+      "type": "R→person"
+    },
+    {
+      "source": "A228401-R24",
+      "target": "A228401-S9",
+      "type": "R→S"
+    },
+    {
+      "source": "A228401-R24",
+      "target": "per007",
+      "type": "R→person"
+    },
+    {
+      "source": "A228401-R25",
+      "target": "A228401-S9",
+      "type": "R→S"
+    },
+    {
+      "source": "A228401-R25",
+      "target": "per015",
+      "type": "R→person"
+    },
+    {
+      "source": "A228401-R26",
+      "target": "A228401-S9",
+      "type": "R→S"
+    },
+    {
+      "source": "A228401-R26",
+      "target": "per011",
+      "type": "R→person"
+    },
+    {
+      "source": "A228401-R27",
+      "target": "A228401-S9",
+      "type": "R→S"
+    },
+    {
+      "source": "A228401-R27",
+      "target": "per006",
+      "type": "R→person"
+    },
+    {
+      "source": "A228401-R28",
+      "target": "A228401-S9",
+      "type": "R→S"
+    },
+    {
+      "source": "A228401-R28",
+      "target": "per005",
+      "type": "R→person"
+    },
+    {
+      "source": "A228401-R29",
+      "target": "A228401-S9",
+      "type": "R→S"
+    },
+    {
+      "source": "A228401-R29",
+      "target": "per009",
+      "type": "R→person"
+    },
+    {
+      "source": "A228401-R30",
+      "target": "A228401-S11",
+      "type": "R→S"
+    },
+    {
+      "source": "A228401-R30",
+      "target": "per013",
+      "type": "R→person"
+    },
+    {
+      "source": "A228401-R31",
+      "target": "A228401-S11",
+      "type": "R→S"
+    },
+    {
+      "source": "A228401-R31",
+      "target": "per008",
+      "type": "R→person"
+    },
+    {
+      "source": "A228401-R32",
+      "target": "A228401-S11",
+      "type": "R→S"
+    },
+    {
+      "source": "A228401-R32",
+      "target": "per016",
+      "type": "R→person"
+    },
+    {
+      "source": "A228401-R33",
+      "target": "A228401-S11",
+      "type": "R→S"
+    },
+    {
+      "source": "A228401-R33",
+      "target": "per011",
+      "type": "R→person"
+    },
+    {
+      "source": "A228401-R34",
+      "target": "A228401-S11",
+      "type": "R→S"
+    },
+    {
+      "source": "A228401-R34",
+      "target": "per010",
+      "type": "R→person"
+    },
+    {
+      "source": "A228401-R35",
+      "target": "A228401-S12",
+      "type": "R→S"
+    },
+    {
+      "source": "A228401-R36",
+      "target": "A228401-S12",
+      "type": "R→S"
+    },
+    {
+      "source": "A228401-R37",
+      "target": "A228401-S12",
+      "type": "R→S"
+    },
+    {
+      "source": "A228401-R38",
+      "target": "A228401-S12",
+      "type": "R→S"
+    },
+    {
+      "source": "A228401-R39",
+      "target": "A228401-S12",
+      "type": "R→S"
+    },
+    {
+      "source": "A228401-R40",
+      "target": "A228401-S12",
+      "type": "R→S"
+    },
+    {
+      "source": "A228401-R41",
+      "target": "A228401-S12",
+      "type": "R→S"
+    },
+    {
+      "source": "A228401-R42",
+      "target": "A228401-S12",
+      "type": "R→S"
+    },
+    {
+      "source": "A228401-P1.3.PS1",
+      "target": "A228401-S1",
+      "type": "PS→S"
+    },
+    {
+      "source": "A228401-P1.3.PS2",
+      "target": "A228401-S2",
+      "type": "PS→S"
+    },
+    {
+      "source": "A228401-P1.3.PS3",
+      "target": "A228401-S3",
+      "type": "PS→S"
+    },
+    {
+      "source": "A228401-P1.3.PS4",
+      "target": "A228401-S4",
+      "type": "PS→S"
+    },
+    {
+      "source": "A228401-P1.3.PS5",
+      "target": "A228401-S5",
+      "type": "PS→S"
+    },
+    {
+      "source": "A228401-P1.3.PS6",
+      "target": "A228401-S6",
+      "type": "PS→S"
+    },
+    {
+      "source": "A228401-P1.3.PS7",
+      "target": "A228401-S7",
+      "type": "PS→S"
+    },
+    {
+      "source": "A228401-P1.3.PS8",
+      "target": "A228401-S8",
+      "type": "PS→S"
+    },
+    {
+      "source": "A228401-P1.3.PS9",
+      "target": "A228401-S9",
+      "type": "PS→S"
+    },
+    {
+      "source": "A228401-P1.3.PS10",
+      "target": "A228401-S10",
+      "type": "PS→S"
+    },
+    {
+      "source": "A228401-P1.3.PS11",
+      "target": "A228401-S11",
+      "type": "PS→S"
+    }
+  ]
+}
